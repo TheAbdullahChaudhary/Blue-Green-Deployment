@@ -378,3 +378,7 @@ The detailed configuration options and automation scripts shared in this article
 I hope this detailed walkthrough helps others looking to implement similar deployment strategies. Feel free to connect if you have questions about this implementation or want to discuss AWS deployment strategies further.
 
 #AWS #DevOps #Docker #FlaskApp #BlueGreenDeployment #CloudComputing #Containerization #ZeroDowntimeDeployment #InfrastructureAsCode
+
+
+
+Project URL: https://roadmap.sh/projects/blue-green-deployment
